@@ -4,7 +4,7 @@
 - PHP 8.0
 - MySQL 8.0
 
-### descriptions
+### Frameworks
 - Frontend
     - React.js 17.0
 - Backend
