@@ -5,7 +5,5 @@
 - MySQL 8.0
 
 ### Frameworks
-- Frontend
-    - React.js 17.0
-- Backend
-    - Laravel 8.57
+- React.js 17.0
+- Laravel 8.57
